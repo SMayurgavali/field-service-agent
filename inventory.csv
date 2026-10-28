@@ -1,0 +1,6 @@
+part_id,part_name,stock_count,aisle_location
+P101,Cooling Fan,12,Aisle A3
+P102,Pressure Sensor,5,Aisle B2
+P103,Hydraulic Pump,0,Aisle C1
+P104,Oil Filter,25,Aisle A1
+P105,Temperature Sensor,8,Aisle B4
